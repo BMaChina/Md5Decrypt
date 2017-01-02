@@ -2,7 +2,7 @@
 MD5多接口解密工具（插件式）
 
 ##插件开发
-支持语言:EL/.NET/C++/Delphi
+支持语言:EL/C#/VB.NET/C++/Delphi
 
 已经提供三个Demo 供大家参考
 ##函数说明
