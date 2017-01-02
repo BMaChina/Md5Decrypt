@@ -11,4 +11,4 @@ WebSite()//解密网址
 
 Author()//作者ID
 
-PS:函数传递和返回值必须为String
+PS:函数传递参数值和返回值必须为String
