@@ -15,6 +15,7 @@ Author()//作者ID
 
 PS:函数传递参数值和返回值必须为String
 
+变量名！不要使用关键字 避免DLL堆栈错误
 ##意见反馈
 Blog:www.test404.com
 
