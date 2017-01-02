@@ -14,3 +14,8 @@ WebSite()//解密网址
 Author()//作者ID
 
 PS:函数传递参数值和返回值必须为String
+
+##意见反馈
+Blog:www.test404.com
+
+QQ:839544278
